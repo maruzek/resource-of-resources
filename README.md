@@ -97,7 +97,7 @@
 ## Learning Resources
 
 | Name                                                                        | Description                                                      |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [freeCodeCamp](https://www.freecodecamp.org/)                               | Free coding curriculum and community                             |
 | [Codecademy](https://www.codecademy.com/)                                   | Interactive coding lessons                                       |
 | [Khan Academy](https://www.khanacademy.org/)                                | Free educational resources                                       |
@@ -108,10 +108,10 @@
 | [OSSU CS course](https://github.com/ossu/computer-science)                  | Open Source Computer Science curriculum                          |
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide and list of resources to learn system design |
 | [papers we love](https://github.com/papers-we-love/papers-we-love)          | Collection of computer science papers                            |
-| [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)              |                                                                  | Learn about large language models from scratch |
-| [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)       |                                                                  | Learn about machine learning from scratch      |
+| [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)              | Learn about large language models from scratch                   |
+| [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)       | Learn about machine learning from scratch                        |
 | [The Odin Project](https://www.theodinproject.com/)                         | Free full-stack curriculum                                       |
-| [Made with ML](https://github.com/GokuMohandas/Made-With-ML)                |                                                                  | Collection of machine learning resources       |
+| [Made with ML](https://github.com/GokuMohandas/Made-With-ML)                | Collection of machine learning resources                         |
 | [The Algorithms](https://github.com/thealgorithms)                          | Collection of algorithms implemented in various languages        |
 
 ## Information sources
