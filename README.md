@@ -89,6 +89,26 @@
 
 ## Components
 
+| Name                                     | Description                                          |
+| ---------------------------------------- | ---------------------------------------------------- |
+| [Shadcn UI](https://ui.shadcn.com/)      | Unstyled, accessible UI components for React         |
+| [Radix UI](https://www.radix-ui.com/)    | Unstyled, accessible UI components for React         |
+| [Tailwind UI](https://tailwindui.com/)   | Pre-built components for Tailwind CSS                |
+| [UI Ball ldrs](https://uiball.com/ldrs/) | Free loaders                                         |
+| [Flowbite](https://flowbite.com/)        | UI components and templates for Tailwind CSS         |
+| [Headless UI](https://headlessui.com/)   | Unstyled, accessible UI components for React and Vue |
+| [Reactbits](https://reactbits.dev/)      | Collection of React components                       |
+
+## Component libraries
+
+| Name                                   | Description                                               |
+| -------------------------------------- | --------------------------------------------------------- |
+| [Mantine](https://mantine.dev/)        | React components and hooks library                        |
+| [Chakra UI](https://chakra-ui.com/)    | React component library with a focus on accessibility     |
+| [Material UI](https://mui.com/)        | React components implementing Google's Material Design    |
+| [Ant Design](https://ant.design/)      | React UI library with a set of high-quality components    |
+| [Bootstrap](https://getbootstrap.com/) | Popular HTML, CSS, and JS framework for responsive design |
+
 ## Cheat Sheets
 
 | Name                             | Description                                |
