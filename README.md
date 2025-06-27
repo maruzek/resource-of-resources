@@ -11,6 +11,8 @@
 - [Other tools](#other-tools)
 - [Components](#components)
 - [Cheatsheets](#cheat-sheets)
+- [Learning Resources](#learning-resources)
+- [Information sources](#information-sources)
 
 ## Fonts
 
@@ -44,10 +46,17 @@
 
 ## Resource lists
 
-| Name                                                   | Description                                     |
-| ------------------------------------------------------ | ----------------------------------------------- |
-| [Awesome Cube](https://awesome.cube.dev/?tools=charts) | Front-end data tools for application developers |
-| [Pillar Stack](https://pillarstack.com/)               | Collection of resources for developers          |
+| Name                                                                                                        | Description                                                       |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Awesome Cube](https://awesome.cube.dev/?tools=charts)                                                      | Front-end data tools for application developers                   |
+| [Pillar Stack](https://pillarstack.com/)                                                                    | Collection of resources for developers                            |
+| [Awesome lists](https://github.com/sindresorhus/awesome)                                                    | Curated lists of awesome resources                                |
+| [Build your own](https://github.com/codecrafters-io/build-your-own-x)                                       | Well written step by step guides to rebuild fav tech from scratch |
+| [free-for.dev repo](https://github.com/ripienaar/free-for-dev)                                              | Free resources for developers                                     |
+| [free-for.dev website](https://free-for.dev/)                                                               | Free resources for developers                                     |
+| [Free programming books](https://github.com/EbookFoundation/free-programming-books)                         | Free programming books in multiple languages                      |
+| [Free APIs](https://github.com/public-apis/public-apis)                                                     | Collection of free APIs for use in software and web development   |
+| [Best websites a developer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | Collection of useful websites for developers                      |
 
 ## Design Tools
 
@@ -84,3 +93,31 @@
 | Name                             | Description                                |
 | -------------------------------- | ------------------------------------------ |
 | [quickref](https://quickref.me/) | Collection of web development cheat sheets |
+
+## Learning Resources
+
+| Name                                                                        | Description                                                      |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/)                               | Free coding curriculum and community                             |
+| [Codecademy](https://www.codecademy.com/)                                   | Interactive coding lessons                                       |
+| [Khan Academy](https://www.khanacademy.org/)                                | Free educational resources                                       |
+| [Coursera](https://www.coursera.org/)                                       | Online courses from top universities                             |
+| [edX](https://www.edx.org/)                                                 | Online courses from universities and institutions                |
+| [Udemy](https://www.udemy.com/)                                             | Online courses on various topics                                 |
+| [dev roadmaps](https://github.com/kamranahmedse/developer-roadmap)          | Developer roadmaps for various roles                             |
+| [OSSU CS course](https://github.com/ossu/computer-science)                  | Open Source Computer Science curriculum                          |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide and list of resources to learn system design |
+| [papers we love](https://github.com/papers-we-love/papers-we-love)          | Collection of computer science papers                            |
+| [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)              |                                                                  | Learn about large language models from scratch |
+| [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)       |                                                                  | Learn about machine learning from scratch      |
+| [The Odin Project](https://www.theodinproject.com/)                         | Free full-stack curriculum                                       |
+| [Made with ML](https://github.com/GokuMohandas/Made-With-ML)                |                                                                  | Collection of machine learning resources       |
+| [The Algorithms](https://github.com/thealgorithms)                          | Collection of algorithms implemented in various languages        |
+
+## Information sources
+
+| Name                                                                     | Description                     |
+| ------------------------------------------------------------------------ | ------------------------------- |
+| [Hacker News](https://news.ycombinator.com/)                             | Tech news and discussions       |
+| [Reddit](https://www.reddit.com/)                                        | Various tech-related            |
+| [engeneering blogs repo](https://github.com/kilimchoi/engineering-blogs) | Collection of engineering blogs |
