@@ -24,6 +24,7 @@
 | [DaFont](https://www.dafont.com/)              | Archive of free fonts             |
 | [Fontshare](https://www.fontshare.com/)        | Free fonts by Indian Type Foundry |
 | [Uncut](https://uncut.wtf)                     | Free, open-source fonts           |
+| [fontpair](https://fontpair.co/)               | Font pairing suggestions          |
 
 ## Icons
 
