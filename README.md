@@ -13,6 +13,7 @@
 - [Cheatsheets](#cheat-sheets)
 - [Learning Resources](#learning-resources)
 - [Information sources](#information-sources)
+- [Desing inspiration](#design-inspiration)
 
 ## Fonts
 
@@ -142,3 +143,14 @@
 | [Hacker News](https://news.ycombinator.com/)                             | Tech news and discussions       |
 | [Reddit](https://www.reddit.com/)                                        | Various tech-related            |
 | [engeneering blogs repo](https://github.com/kilimchoi/engineering-blogs) | Collection of engineering blogs |
+
+## Design inspiration
+
+| Name                                  | Description                           |
+| ------------------------------------- | ------------------------------------- |
+| [Dribbble](https://dribbble.com/)     | Design inspiration and portfolios     |
+| [Behance](https://www.behance.net/)   | Creative work and design projects     |
+| [Awwwards](https://www.awwwards.com/) | Awards for web design and development |
+| [same.energy](https://same.energy/)   | Design inspiration for web projects   |
+| [COSMOS](https://www.cosmos.so/)      | Design inspiration for artists        |
+| [are.na](https://www.are.na/)         | Design inspiration for artists        |
