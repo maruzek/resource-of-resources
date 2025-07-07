@@ -146,11 +146,12 @@
 
 ## Design inspiration
 
-| Name                                  | Description                           |
-| ------------------------------------- | ------------------------------------- |
-| [Dribbble](https://dribbble.com/)     | Design inspiration and portfolios     |
-| [Behance](https://www.behance.net/)   | Creative work and design projects     |
-| [Awwwards](https://www.awwwards.com/) | Awards for web design and development |
-| [same.energy](https://same.energy/)   | Design inspiration for web projects   |
-| [COSMOS](https://www.cosmos.so/)      | Design inspiration for artists        |
-| [are.na](https://www.are.na/)         | Design inspiration for artists        |
+| Name                                  | Description                                                   |
+| ------------------------------------- | ------------------------------------------------------------- |
+| [Dribbble](https://dribbble.com/)     | Design inspiration and portfolios                             |
+| [Behance](https://www.behance.net/)   | Creative work and design projects                             |
+| [Awwwards](https://www.awwwards.com/) | Awards for web design and development                         |
+| [same.energy](https://same.energy/)   | Design inspiration for web projects                           |
+| [COSMOS](https://www.cosmos.so/)      | Design inspiration for artists                                |
+| [are.na](https://www.are.na/)         | Design inspiration for artists                                |
+| [Unsection](https://unsection.com/)   | Website section design library (+ hover effects, SVG library) |
